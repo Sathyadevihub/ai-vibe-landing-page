@@ -4,7 +4,7 @@ A clean and modern landing page designed using HTML and CSS.
 
 
 🌐 Live Demo  
-🔗 [https://roaring-madeleine-5223f2.netlify.app](https://roaring-madeleine-5223f2.netlify.app)
+🔗 [https://roaring-madeleine-5223f2.netlify.app](roaring-madeleine-522f32.netlify.app)
 
 ## 💻 GitHub Repository  
 🔗 [https://github.com/Sathyadevihub/ai-vibe-landing-page](https://github.com/Sathyadevihub/ai-vibe-landing-page)
